@@ -15,3 +15,5 @@ I have analyzed key indicators for the pizza sales data to gain insights into th
 
 
 ![Pizza Sales Main dashboard](bestWorstSellers.PNG)
+
+[![Pizza Sales Main dashboard](report.PNG)](https://youtu.be/DxEvUG90-G0 "Pizza Sales dashboard")
