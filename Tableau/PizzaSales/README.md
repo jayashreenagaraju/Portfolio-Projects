@@ -11,4 +11,7 @@ I have analyzed key indicators for the pizza sales data to gain insights into th
 * Total Orders
 * Average Pizzas Per Order
 
-![Pizza Sales Main dashboard](https://github.com/jayashreenagaraju/Portfolio-Projects/blob/f483be2234233df4e3efff3497444981a70833ed/Tableau/Pizza%20Sales/report.PNG)
+![Pizza Sales Main dashboard](report.PNG)
+
+
+![Pizza Sales Main dashboard](bestWorstSellers.PNG)
