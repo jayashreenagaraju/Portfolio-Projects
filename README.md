@@ -14,3 +14,7 @@
 ## Tableau Projects
 
 - [Global Retail Analysis](https://github.com/jayashreenagaraju/ironhack-final-project)
+
+## Python Projects
+
+- [Vanguard Test control analysis](https://github.com/jayashreenagaraju/vanguard-test-control-analysis)
