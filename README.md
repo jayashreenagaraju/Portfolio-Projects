@@ -7,6 +7,7 @@
 ## SQL Projects
 
 - [Global Retail Analysis](https://github.com/jayashreenagaraju/ironhack-final-project/tree/main/sql)
+- [Finance Analysis](https://github.com/jayashreenagaraju/Internship-Projects/tree/main/SQL)
 
 ## Tableau Projects
 
