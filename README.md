@@ -14,6 +14,10 @@
 ## Tableau Projects
 
 - [**Global Retail Analysis**](https://github.com/jayashreenagaraju/ironhack-final-project)
+  - Customer segmentation analysis based on age, gender, income etc.
+  - Sales trend analysis over time to identify peak seasons or trends.
+  - Product performance analysis to determine popular categories, brand and type.
+  - Geographic analysis to understand regional preferences.
 
 ## Python Projects
 
