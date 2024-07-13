@@ -10,6 +10,9 @@
 
 - [**Global Retail Analysis**](https://github.com/jayashreenagaraju/ironhack-final-project/tree/main/sql)
 - [**Finance Analysis**](https://github.com/jayashreenagaraju/Internship-Projects/tree/main/SQL)
+  - **Data Analysis & Insight Generation**: Conducted in-depth analysis of net sales data to identify AtliQ Hardware's top markets, best-performing products, and key customers. This analysis provided actionable insights that significantly contributed to the company's strategic decision-making and operational improvements.
+  - **Business Intelligence & Strategic Growth**: Leveraged SQL to extract and analyze critical sales data, which informed strategic choices that enhanced AtliQ's market competitiveness and growth. Played a key role in recognizing high-value customers and profitable products, aiding in targeted marketing and sales efforts.
+  - **Operational Understanding & Sales Management**: Gained comprehensive knowledge of AtliQ Hardware's business operations and sales management processes. Utilized data-driven findings to recommend optimizations, thereby contributing to the overall efficiency and effectiveness of the company's sales strategies.
 
 ## Tableau Projects
 
